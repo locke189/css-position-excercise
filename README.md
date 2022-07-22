@@ -11,4 +11,4 @@ To run the local server:
 npm start
 ```
 
-Enjoy!
+Enjoy! :D
