@@ -1,0 +1,24 @@
+*, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
+
+#backup-image {
+  margin-left: 20px;
+}
+
+#banner {
+  width: 300px;
+  height: 600px;
+  border: dashed saddlebrown 1px;
+  position: relative;
+}
+
+/* Add your styles here */

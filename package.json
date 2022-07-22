@@ -1,0 +1,23 @@
+{
+  "name": "css-position-excercise",
+  "version": "1.0.0",
+  "description": "CSS positioning problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locke189/css-position-excercise.git"
+  },
+  "author": "Juan Insuasti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locke189/css-position-excercise/issues"
+  },
+  "homepage": "https://github.com/locke189/css-position-excercise#readme",
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
